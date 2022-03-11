@@ -1,5 +1,5 @@
 // Nama File : CekProsesBil.c
-// Deskripsi :
+// Deskripsi : Menampilkan klasifikasi hasil proses akhir bilangan N pada layar
 // Pembuat : Zhafira Amanda/ 24060121140100
 // Tanggal : 11 Maret 2022
 
